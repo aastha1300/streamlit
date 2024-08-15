@@ -1,2 +1,2 @@
 # streamlit
-Stock Market Prediction App
+stock market prediction app
